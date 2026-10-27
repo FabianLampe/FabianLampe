@@ -20,3 +20,4 @@ I work with Python, SQL and machine learning, recently mostly on time-series for
 | [tradingbot](https://github.com/FabianLampe/tradingbot) | News-driven stock recommendations with sentiment features and backtests, paper trading only | Python, Docker |
 | [LLM-Workshop](https://github.com/FabianLampe/LLM-Workshop) | School project: information extraction from job postings, local Qwen model vs. hosted LLMs | Python, Transformers |
 | [Ap2-Spiel](https://github.com/FabianLampe/Ap2-Spiel) | Browser game for AP2 exam practice: databases, UML, Python, business topics | JavaScript, three.js |
+| [jarvis-desktop](https://github.com/FabianLampe/jarvis-desktop) | Local desktop assistant with an animated orb UI, model routing via Ollama and a voice daemon | Python, Ollama |
