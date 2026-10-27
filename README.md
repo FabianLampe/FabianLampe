@@ -5,6 +5,7 @@
 **🇬🇧** Apprentice IT specialist for data and process analysis, based in Bremen, Germany. I build data pipelines, forecasting models and small products around Python, machine learning and LLMs – and I document them so that others can take them over.
 
 📍 Bremen · 🔎 Offen für Junior-Stellen im Bereich Data / Cloud / KI · Open to junior roles in data, cloud and AI engineering
+
 ---
 
 ## 🛠 Tech Stack
