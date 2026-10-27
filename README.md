@@ -21,3 +21,4 @@ I work with Python, SQL and machine learning, recently mostly on time-series for
 | [LLM-Workshop](https://github.com/FabianLampe/LLM-Workshop) | School project: information extraction from job postings, local Qwen model vs. hosted LLMs | Python, Transformers |
 | [Ap2-Spiel](https://github.com/FabianLampe/Ap2-Spiel) | Browser game for AP2 exam practice: databases, UML, Python, business topics | JavaScript, three.js |
 | [jarvis-desktop](https://github.com/FabianLampe/jarvis-desktop) | Local desktop assistant with an animated orb UI, model routing via Ollama and a voice daemon | Python, Ollama |
+| [LetsMeet](https://github.com/KodalMertCan/LetsMeet) | Team project (school): migration of Excel, MongoDB and XML data into a normalized PostgreSQL database, with data models, SQL scripts, Python import and tests | SQL, PostgreSQL, Python, Docker |
